@@ -2,66 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf5899a8-b1d4-4104-aafb-3f068a6e04d1" name="Default" comment="New commit for payment">
-<<<<<<< HEAD
+      <change type="DELETED" beforePath="E:\GitHub\New-Payment\.idea\libraries\Maven__commons_codec_commons_codec_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\GitHub\New-Payment\.idea\libraries\Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PokoopkaPayment.iml" afterPath="$PROJECT_DIR$/PokoopkaPayment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\GitHub\PopoopkaPayment\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="MOVED" beforePath="E:\GitHub\PopoopkaPayment\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-=======
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\Maven-test\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\Maven-test\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\Maven-test\PaymentTest" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\Maven-test\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\New\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\New\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\New\PaymentTest" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\New\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Cards\LIQ_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Cards\Visa_Mastercard_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\AlfaClick_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\EasyPay_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\LIQ_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\Mail_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\MoneyXy_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\QIWI_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\RBK_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\WebB_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\WebE_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\WebR_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\WebZ_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Emoney\Yandex_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Mobile_payment\Beeline_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Mobile_payment\IPay_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Mobile_payment\MTS_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\Mobile_payment\Megafon_Payment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\AutoTests\branches\stage.test\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\GitHub\PopoopkaPayment\PopoopkaPayment.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/AlfaClick_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/AlfaClick_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/EasyPay_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/EasyPay_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Cards/LIQ_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Cards/LIQ_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/LIQ_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/LIQ_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Mobile_Payment/MTS_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/MTS_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/Mail_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/Mail_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/MoneyXy_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/MoneyXy_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/QIWI_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/QIWI_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/RBK_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/RBK_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/WebB_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebB_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/WebE_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebE_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/WebR_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebR_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/WebZ_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebZ_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/Yandex_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/Yandex_Payment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
->>>>>>> parent of ced52cf... New commit for payment
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Cards\LIQ_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Cards/LIQ_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Cards\Visa_Mastercard_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\AlfaClick_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/AlfaClick_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\EasyPay_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/EasyPay_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\LIQ_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/LIQ_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\Mail_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/Mail_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\MoneyXy_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/MoneyXy_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\QIWI_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/QIWI_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\RBK_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/RBK_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\WebB_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebB_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\WebE_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebE_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\WebR_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebR_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\WebZ_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/WebZ_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Emoney\Yandex_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/Yandex_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Mobile_Payment\Beeline_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Mobile_Payment\IPay_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_PaymentTest.java" />
+      <change type="MOVED" beforePath="E:\GitHub\New-Payment\src\test\java\Mobile_Payment\Megafon_Payment.java" afterPath="$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_PaymentTest.java" />
     </list>
     <list id="35747ada-0942-46cd-9dd5-ffcb1dfb2f2a" name="Failed commit: Default" comment="New commit for payment" />
     <ignored path="PopoopkaPayment.iws" />
@@ -121,8 +85,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -130,55 +94,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RBK_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_Payment.java">
+      <file leaf-file-name="RBK_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="0.43589744" vertical-offset="0" max-vertical-offset="952">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-=======
-            <state vertical-scroll-proportion="0.0" vertical-offset="574" max-vertical-offset="1173">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
->>>>>>> parent of ced52cf... New commit for payment
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebE_Payment.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebE_Payment.java">
+      <file leaf-file-name="WebE_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebE_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68393785" vertical-offset="42" max-vertical-offset="1207">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1207">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebR_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebR_Payment.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
+            <state vertical-scroll-proportion="0.4857143" vertical-offset="153" max-vertical-offset="1241">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebR_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebR_PaymentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
               <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebZ_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebZ_Payment.java">
+      <file leaf-file-name="WebZ_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebZ_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
               <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Yandex_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Yandex_Payment.java">
+      <file leaf-file-name="Yandex_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Yandex_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1207">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
               <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
@@ -188,48 +157,38 @@
       <file leaf-file-name="MTS_Payment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/MTS_Payment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="1105">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="1258">
               <caret line="66" column="3" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Beeline_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_Payment.java">
+      <file leaf-file-name="Beeline_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="1105">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="1258">
               <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IPay_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_Payment.java">
+      <file leaf-file-name="IPay_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1088">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1241">
               <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Megafon_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_Payment.java">
+      <file leaf-file-name="Megafon_PaymentTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1088">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1241">
               <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QIWI_Payment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/QIWI_Payment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
-              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -337,6 +296,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -351,7 +311,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PopoopkaPayment" />
+              <option name="myItemId" value="New-Payment" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -361,7 +321,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PopoopkaPayment" />
+              <option name="myItemId" value="New-Payment" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -387,7 +347,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PopoopkaPayment" />
+              <option name="myItemId" value="New-Payment" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -413,7 +373,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PopoopkaPayment" />
+              <option name="myItemId" value="New-Payment" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -439,7 +399,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PopoopkaPayment" />
+              <option name="myItemId" value="New-Payment" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -450,7 +410,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -508,6 +467,27 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -530,33 +510,25 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -584,19 +556,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -676,7 +635,6 @@
       <created>1406880653513</created>
       <updated>1406880653513</updated>
     </task>
-<<<<<<< HEAD
     <task id="LOCAL-00001" summary="New commit for payment">
       <created>1406890075445</created>
       <updated>1406890075445</updated>
@@ -686,20 +644,14 @@
       <updated>1407144905471</updated>
     </task>
     <option name="localTasksCounter" value="3" />
-=======
->>>>>>> parent of ced52cf... New commit for payment
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266564" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
->>>>>>> parent of ced52cf... New commit for payment
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -708,28 +660,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18816389" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32511556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3345979" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2003035" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
->>>>>>> parent of ced52cf... New commit for payment
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -760,6 +701,86 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebE_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="1207">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebR_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebZ_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Yandex_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/MTS_Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="1258">
+          <caret line="66" column="3" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="1258">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1241">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1241">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/QIWI_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1377">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="680">
@@ -768,7 +789,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/LIQ_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/LIQ_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1632">
           <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
@@ -776,7 +797,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1615">
           <caret line="71" column="39" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
@@ -784,7 +805,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebB_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebB_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1547">
           <caret line="18" column="74" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
@@ -792,7 +813,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1717">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -816,7 +837,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/LIQ_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/LIQ_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1632">
           <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
@@ -824,7 +845,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1055" max-vertical-offset="1462">
           <caret line="71" column="39" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
@@ -832,7 +853,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebB_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebB_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1751">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -840,7 +861,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1717">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -856,15 +877,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebB_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebB_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="568" max-vertical-offset="1190">
           <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
@@ -872,7 +885,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/LIQ_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/LIQ_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="1105">
           <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
@@ -880,7 +893,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="466" max-vertical-offset="1088">
           <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
@@ -888,7 +901,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/AlfaClick_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/AlfaClick_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
           <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
@@ -896,7 +909,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/EasyPay_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/EasyPay_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
           <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
@@ -904,7 +917,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/LIQ_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/LIQ_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1207">
           <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
@@ -912,7 +925,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Mail_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Mail_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
           <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
@@ -920,7 +933,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/MoneyXy_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/MoneyXy_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
           <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
@@ -928,7 +941,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/QIWI_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/QIWI_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
@@ -936,23 +949,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/RBK_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="574" max-vertical-offset="1173">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebR_Payment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebZ_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebR_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
@@ -960,7 +965,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Yandex_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebZ_PaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1207">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/Yandex_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1207">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
@@ -968,7 +981,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Beeline_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="1105">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
@@ -976,7 +989,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/IPay_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1088">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
@@ -984,7 +997,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Mobile_Payment/Megafon_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1088">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
@@ -1000,15 +1013,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebE_Payment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Emoney/WebE_PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.43589744" vertical-offset="0" max-vertical-offset="952">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-=======
-        <state vertical-scroll-proportion="0.68393785" vertical-offset="42" max-vertical-offset="1207">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
->>>>>>> parent of ced52cf... New commit for payment
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1207">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143" vertical-offset="153" max-vertical-offset="1241">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>

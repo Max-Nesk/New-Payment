@@ -15,7 +15,7 @@ import static org.junit.Assert.fail;
 /**
  * Created by Admin on 01.07.2014.
  */
-public class MoneyXy_Payment {
+public class MoneyXy_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;

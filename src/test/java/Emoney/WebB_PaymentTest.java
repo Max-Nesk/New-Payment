@@ -1,5 +1,7 @@
-package Mobile_Payment;
+package Emoney;
+
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.*;
@@ -7,10 +9,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
-import static org.junit.Assert.assertFalse;
+import static java.util.concurrent.TimeUnit.SECONDS;
 import static org.junit.Assert.fail;
 
-public class Megafon_Payment {
+
+public class WebB_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -20,13 +23,13 @@ public class Megafon_Payment {
     public void setUp() throws Exception {
         driver = new FirefoxDriver();
         baseUrl = "http://www.pokoopka.com/";
-        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(30, SECONDS);
     }
 
     @Test
-    public void testUserPayment() throws Exception {
+    public void test_UserPayment() throws Exception {
         driver.get(baseUrl);
-
+        driver.findElement(By.linkText("Войти")).click();
         driver.findElement(By.linkText("Войти")).click();
         driver.findElement(By.id("login")).clear();
         driver.findElement(By.id("login")).sendKeys("Selenium");
@@ -36,17 +39,20 @@ public class Megafon_Payment {
         driver.findElement(By.linkText("Пополнить счёт")).click();
         driver.findElement(By.id("amount")).clear();
         driver.findElement(By.id("amount")).sendKeys("10");
-        driver.findElement(By.linkText("Мобильные платежи")).click();
-        driver.findElement(By.id("mode_type_17")).click();
+        driver.findElement(By.linkText("Электронные деньги")).click();
+        driver.findElement(By.id("mode_type_13")).click();
         driver.findElement(By.id("send_message")).click();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        assertFalse(isElementPresent(By.xpath("/html/body/div/div[2]/p[1]")));
+        Assert.assertTrue(isElementPresent(By.id("auth")));
 
 
     }
 
     @After
     public void tearDown() throws Exception {
+
+
         driver.quit();
         String verificationErrorString = verificationErrors.toString();
         if (!"".equals(verificationErrorString)) {
@@ -62,6 +68,7 @@ public class Megafon_Payment {
             return false;
         }
     }
+
 
 
 }

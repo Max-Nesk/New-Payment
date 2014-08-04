@@ -15,7 +15,7 @@ import static org.junit.Assert.fail;
 /**
  * Created by Admin on 01.07.2014.
  */
-public class Yandex_Payment {
+public class LIQ_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -42,11 +42,11 @@ public class Yandex_Payment {
         driver.findElement(By.id("amount")).clear();
         driver.findElement(By.id("amount")).sendKeys("10");
         driver.findElement(By.linkText("Электронные деньги")).click();
-        driver.findElement(By.id("mode_type_7")).click();
+        driver.findElement(By.id("mode_type_6")).click();
         driver.findElement(By.id("send_message")).click();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.xpath("/html/body/table[2]/tbody/tr/td[3]/div[2]/form/table/tbody/tr[2]/td[2]/div/div[5]/span/input")));
+        Assert.assertTrue(isElementPresent(By.xpath("html/body/div[2]/div[1]/div/div[2]/div/div[2]/div[4]/div[2]/div/div[6]/div")));
 
 
     }

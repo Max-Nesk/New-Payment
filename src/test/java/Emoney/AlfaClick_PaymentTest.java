@@ -15,7 +15,7 @@ import static org.junit.Assert.fail;
 /**
  * Created by Admin on 01.07.2014.
  */
-public class WebR_Payment {
+public class AlfaClick_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -40,13 +40,13 @@ public class WebR_Payment {
         driver.findElement(By.xpath("//*[@id='form']/a[1]")).click();
         driver.findElement(By.linkText("Пополнить счёт")).click();
         driver.findElement(By.id("amount")).clear();
-        driver.findElement(By.id("amount")).sendKeys("10");
+        driver.findElement(By.id("amount")).sendKeys("14");
         driver.findElement(By.linkText("Электронные деньги")).click();
-        driver.findElement(By.id("mode_type_10")).click();
+        driver.findElement(By.id("mode_type_14")).click();
         driver.findElement(By.id("send_message")).click();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.id("auth")));
+        Assert.assertTrue(isElementPresent(By.xpath("/html/body/div/div[2]/form/div/table/tbody/tr[3]/td/input")));
 
 
     }

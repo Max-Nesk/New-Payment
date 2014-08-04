@@ -12,8 +12,10 @@ import java.util.concurrent.TimeUnit;
 import static java.util.concurrent.TimeUnit.SECONDS;
 import static org.junit.Assert.fail;
 
-
-public class WebB_Payment {
+/**
+ * Created by Admin on 01.07.2014.
+ */
+public class EasyPay_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -38,13 +40,13 @@ public class WebB_Payment {
         driver.findElement(By.xpath("//*[@id='form']/a[1]")).click();
         driver.findElement(By.linkText("Пополнить счёт")).click();
         driver.findElement(By.id("amount")).clear();
-        driver.findElement(By.id("amount")).sendKeys("10");
+        driver.findElement(By.id("amount")).sendKeys("14");
         driver.findElement(By.linkText("Электронные деньги")).click();
-        driver.findElement(By.id("mode_type_13")).click();
+        driver.findElement(By.id("mode_type_15")).click();
         driver.findElement(By.id("send_message")).click();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.id("auth")));
+        Assert.assertTrue(isElementPresent(By.xpath("/html/body/div/div[2]/form/input[7]")));
 
 
     }
@@ -68,7 +70,6 @@ public class WebB_Payment {
             return false;
         }
     }
-
 
 
 }

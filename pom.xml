@@ -8,7 +8,7 @@
     <artifactId>Autotests</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<<<<<<< HEAD
+
     <properties>
         <webdriver.driver>D:\Work\Remote\webdriver\chromedriver.exe</webdriver.driver>
     </properties>
@@ -38,9 +38,8 @@
             <version>0.5</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-=======
-    <dependencies>
+
+
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-remote-driver</artifactId>
@@ -53,7 +52,7 @@
         </dependency>
 
         <dependency>
->>>>>>> parent of ced52cf... New commit for payment
+
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
@@ -64,8 +63,6 @@
             <version>2.42.2</version>
         </dependency>
     </dependencies>
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of ced52cf... New commit for payment
+
 </project>

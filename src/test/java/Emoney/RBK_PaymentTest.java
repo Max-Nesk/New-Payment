@@ -1,7 +1,7 @@
 package Emoney;
 
+import junit.framework.Assert;
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.*;
@@ -12,10 +12,7 @@ import java.util.concurrent.TimeUnit;
 import static java.util.concurrent.TimeUnit.SECONDS;
 import static org.junit.Assert.fail;
 
-/**
- * Created by Admin on 01.07.2014.
- */
-public class WebZ_Payment {
+public class RBK_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -40,13 +37,13 @@ public class WebZ_Payment {
         driver.findElement(By.xpath("//*[@id='form']/a[1]")).click();
         driver.findElement(By.linkText("Пополнить счёт")).click();
         driver.findElement(By.id("amount")).clear();
-        driver.findElement(By.id("amount")).sendKeys("11");
+        driver.findElement(By.id("amount")).sendKeys("10");
         driver.findElement(By.linkText("Электронные деньги")).click();
-        driver.findElement(By.id("mode_type_10")).click();
+        driver.findElement(By.id("mode_type_4")).click();
         driver.findElement(By.id("send_message")).click();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.id("auth")));
+        Assert.assertTrue(isElementPresent(By.id("PayLinkButton")));
 
 
     }
@@ -73,3 +70,4 @@ public class WebZ_Payment {
 
 
 }
+

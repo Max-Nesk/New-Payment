@@ -1,7 +1,6 @@
-package Emoney;
+package Mobile_Payment;
 
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.*;
@@ -9,13 +8,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
-import static java.util.concurrent.TimeUnit.SECONDS;
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.fail;
 
-/**
- * Created by Admin on 01.07.2014.
- */
-public class Mail_Payment {
+public class Beeline_PaymentTest {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -25,13 +21,13 @@ public class Mail_Payment {
     public void setUp() throws Exception {
         driver = new FirefoxDriver();
         baseUrl = "http://www.pokoopka.com/";
-        driver.manage().timeouts().implicitlyWait(30, SECONDS);
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
     @Test
-    public void test_UserPayment() throws Exception {
+    public void testUserPayment() throws Exception {
         driver.get(baseUrl);
-        driver.findElement(By.linkText("Войти")).click();
+
         driver.findElement(By.linkText("Войти")).click();
         driver.findElement(By.id("login")).clear();
         driver.findElement(By.id("login")).sendKeys("Selenium");
@@ -41,20 +37,17 @@ public class Mail_Payment {
         driver.findElement(By.linkText("Пополнить счёт")).click();
         driver.findElement(By.id("amount")).clear();
         driver.findElement(By.id("amount")).sendKeys("10");
-        driver.findElement(By.linkText("Электронные деньги")).click();
-        driver.findElement(By.id("mode_type_8")).click();
+        driver.findElement(By.linkText("Мобильные платежи")).click();
+        driver.findElement(By.id("mode_type_17")).click();
         driver.findElement(By.id("send_message")).click();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        Assert.assertFalse(isElementPresent(By.xpath("/html/body/div/div[2]/p[1]")));
+        assertFalse(isElementPresent(By.xpath("/html/body/div/div[2]/p[1]")));
 
 
     }
 
     @After
     public void tearDown() throws Exception {
-
-
         driver.quit();
         String verificationErrorString = verificationErrors.toString();
         if (!"".equals(verificationErrorString)) {
