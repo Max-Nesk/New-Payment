@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Emoney.RBK_PaymentTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.23 sec - in Emoney.RBK_PaymentTest

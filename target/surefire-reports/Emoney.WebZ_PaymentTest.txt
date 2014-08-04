@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Emoney.WebZ_PaymentTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.181 sec - in Emoney.WebZ_PaymentTest
