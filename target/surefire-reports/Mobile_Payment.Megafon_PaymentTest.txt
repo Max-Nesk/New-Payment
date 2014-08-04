@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Mobile_Payment.Megafon_PaymentTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.553 sec <<< FAILURE! - in Mobile_Payment.Megafon_PaymentTest
+TestUntitled2(Mobile_Payment.Megafon_PaymentTest)  Time elapsed: 28.553 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertFalse(Assert.java:64)
+	at org.junit.Assert.assertFalse(Assert.java:74)
+	at Mobile_Payment.Megafon_PaymentTest.TestUntitled2(Megafon_PaymentTest.java:43)
+
