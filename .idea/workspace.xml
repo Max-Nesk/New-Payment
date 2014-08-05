@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf5899a8-b1d4-4104-aafb-3f068a6e04d1" name="Default" comment="New commit for payment">
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__cglib_cglib_nodep_2_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__com_google_guava_guava_15_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__commons_discovery_commons_discovery_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__commons_io_commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__io_netty_netty_3_5_2_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__net_java_dev_jna_jna_3_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__net_java_dev_jna_platform_3_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__net_sourceforge_cssparser_cssparser_0_9_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__net_sourceforge_htmlunit_htmlunit_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__net_sourceforge_nekohtml_nekohtml_1_9_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_apache_commons_commons_exec_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_apache_httpcomponents_httpmime_4_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_eclipse_jetty_jetty_http_8_1_14_v20131031.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_eclipse_jetty_jetty_io_8_1_14_v20131031.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_eclipse_jetty_jetty_util_8_1_14_v20131031.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_eclipse_jetty_jetty_websocket_8_1_14_v20131031.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_json_json_20080701.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_42_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_w3c_css_sac_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__org_webbitserver_webbit_0_4_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__xalan_serializer_2_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__xalan_xalan_2_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__xerces_xercesImpl_2_11_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Project\New-Payment\.idea\libraries\Maven__xml_apis_xml_apis_1_4_01.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Cards/LIQ_PaymentTest.java" afterPath="$PROJECT_DIR$/src/test/java/Cards/LIQ_PaymentTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/LIQ_PaymentTest.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/LIQ_PaymentTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PokoopkaPayment.iml" afterPath="$PROJECT_DIR$/PokoopkaPayment.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_PaymentTest.java" afterPath="$PROJECT_DIR$/src/test/java/Cards/Visa_Mastercard_PaymentTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Emoney/Yandex_PaymentTest.java" afterPath="$PROJECT_DIR$/src/test/java/Emoney/Yandex_PaymentTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    <list default="true" id="bf5899a8-b1d4-4104-aafb-3f068a6e04d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="35747ada-0942-46cd-9dd5-ffcb1dfb2f2a" name="Failed commit: Default" comment="New commit for payment" />
@@ -693,11 +645,15 @@
       <created>1407144905471</created>
       <updated>1407144905471</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New commit for payment">
+      <created>1407229653370</created>
+      <updated>1407229653370</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
