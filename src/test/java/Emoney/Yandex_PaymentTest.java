@@ -46,7 +46,7 @@ public class Yandex_PaymentTest {
         driver.findElement(By.id("send_message")).click();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.xpath("/html/body/table[2]/tbody/tr/td[3]/div[2]/form/table/tbody/tr[2]/td[2]/div/div[5]/span/input")));
+        Assert.assertTrue(isElementPresent(By.xpath("/html/body/table[2]/tbody/tr/td[3]/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr[1]/td[2]/p/a")));
 
 
     }

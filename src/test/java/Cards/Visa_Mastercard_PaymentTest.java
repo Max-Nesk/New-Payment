@@ -1,10 +1,11 @@
 package Cards;
 
-import junit.framework.Assert;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
@@ -42,7 +43,7 @@ public class Visa_Mastercard_PaymentTest {
         driver.findElement(By.id("send_message")).click();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.id("first-card-number")));
+        org.junit.Assert.assertTrue(isElementPresent(By.id("first-card-number")));
     }
 
     @After

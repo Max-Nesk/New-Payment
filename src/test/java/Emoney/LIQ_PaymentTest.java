@@ -4,7 +4,9 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
@@ -44,9 +46,9 @@ public class LIQ_PaymentTest {
         driver.findElement(By.linkText("Электронные деньги")).click();
         driver.findElement(By.id("mode_type_6")).click();
         driver.findElement(By.id("send_message")).click();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 
-        Assert.assertTrue(isElementPresent(By.xpath("html/body/div[2]/div[1]/div/div[2]/div/div[2]/div[4]/div[2]/div/div[6]/div")));
+        Assert.assertTrue(isElementPresent(By.xpath("/html/body/div[2]/div[1]/div/div[2]/div/div[2]/div[4]/div[2]/div/div[2]/div[2]/input")));
 
 
     }

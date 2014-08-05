@@ -47,7 +47,7 @@ public class LIQ_PaymentTest {
     }
 
     @After
-    public void tearDown() throws Exception {
+    public void tearDown() throws NullPointerException {
         driver.quit();
         String verificationErrorString = verificationErrors.toString();
         if (!"".equals(verificationErrorString)) {
